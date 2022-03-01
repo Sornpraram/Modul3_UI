@@ -1,5 +1,5 @@
 # Modul3_UI
-User Interface for Module 3(FRAB#7)
+User Interface and Protocol for Module 3(FRAB#7)
 # Library
 pip install PyQt5
 
